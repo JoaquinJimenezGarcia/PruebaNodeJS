@@ -1,0 +1,15 @@
+{
+  "name": "pruebanodejs",
+  "version": "1.0.0",
+  "description": "Prueba para Node y Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joaquin Jimenez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "pug": "^2.0.0-rc.1"
+  }
+}
